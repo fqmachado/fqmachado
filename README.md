@@ -1,4 +1,4 @@
-### Hi, I'm Hudson Carlos, Brazilian, married and forever an IT student! 👋🍺
+### Hi, I'm Fábio Machado from Brazil.
 
 - 🧰 Currently working with .Net.
 - 🧙‍♂️ Currently studying Software Architecture, Kubernetes, Grafana, Docker, Azure DevOps.
@@ -7,7 +7,10 @@
 ##
 
  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/hudson-carlos-11b9a282" target="_blank">
+  <a href="https://www.linkedin.com/in/
+           
+           
+           -carlos-11b9a282" target="_blank">
    <img height="180em" 
        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HudsonCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   </a>

@@ -1,8 +1,8 @@
-### Hi, I'm Fábio Machado Healthcare professional and IT student from Brazil.
+### Hi. I'm Fábio Machado. Healthcare professional and IT student from Brazil.
 
 - 🧰 Currently working as a Medical Devices Maintenance Specialist.
-- 🧙‍♂️ Currently studying Python, HTML, CSS, and Javascript.
-- 🤔 I need help in the languages I'm studying.
+- 🧙‍♂️ Currently studying Software Engineering, Python, HTML, CSS, and Javascript.
+- 🤔 I need help in the languages I'm studying. A help that is a priority is private classes - specially on Python.
 
  
 ### - 👨‍🎓💡 I'm studying:

@@ -4,22 +4,21 @@ Sou também estudante de programação.
 Participo de um programa de mentoria em Programação da DesenvolvendoMe, do Professor e Eng.de Software Marco Castro (https://desenvolvendo.me/)
 Comecei minha jornada na mentoria após já ter tido contato com programação antes.
 
-Linguagens que já estudei: 
+<h3>Quando eu me tornar um programador, me vejo utilizando um setup parecido com este:</h3>
 
-
-Quanto eu me tornar um programador, me vejo utilizando um setup parecido com este:
 ![image](https://github.com/fqmachado/fqmachado/assets/115643087/613f0f68-7941-4260-b068-bfe4969bd60d)
 
-Linguagens que estou estudando:
+Linguagens que já estudei:
 <div>
             <img title="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
             <img title="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
             <img title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />      
             <img title="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-            <img title="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+           
 </div>
 
 <div>
+            <h3>Redes Sociais:</h3>
             <a href="https://www.linkedin.com/in/fabio-machado-mri2839994a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
 </div>
             
